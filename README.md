@@ -1,2 +1,2 @@
 # Data-Structure
-Data structure practical programs in C
+Data structure practical programs in C++
